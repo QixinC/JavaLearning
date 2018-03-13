@@ -17,14 +17,14 @@ public class Guess_My_Number {
     think = rand.nextInt(100)+1;
     
     //Prompt user type a number
-    System.out.print("Type a number: \n");
+    System.out.print("Type a number: ");
     guess = in.nextInt();
-    System.out.printf("Your guess is : %d\n ", guess);
+    System.out.printf("Your guess is : %d\n", guess);
     
     //Get Difference and output
-     System.out.printf("The number I was thinking is : %d\n ", think);
+     System.out.printf("The number I was thinking is : %d\n", think);
      diff = think - guess;
-    System.out.printf("You were off by : %d\n ", diff);
+    System.out.printf("You were off by : %d\n", diff);
     
     }
 
