@@ -1,3 +1,10 @@
-The method banana get int arry and multiply each elements together, and return final product.
+The method banana does a reduce operation on an array of integral numbers by multiplying each elements together and returns final product.
 Kiwi: a beginning integer factor, initalied to 1.
 i: index used for traveral,  initialized to 1 .
+
+The method grapefruit does a search operation looking for a given integer in a array of integral numbers and returns the index if found, otherwise return -1.
+grape: the value to be search, getting from input
+
+The method pineapple does a search operation looking for a given integer in a array of integral numbers and counts many time a given value occurred in this array, and return the count result.
+apple: the value to be searched.
+pine: the each elements in the array.
