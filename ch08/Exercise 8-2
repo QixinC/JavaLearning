@@ -1,1 +1,3 @@
 The method banana get int arry and multiply each elements together, and return final product.
+Kiwi: a beginning integer factor, initalied to 1.
+i: index used for traveral,  initialized to 1 .
